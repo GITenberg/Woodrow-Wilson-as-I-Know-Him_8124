@@ -1,0 +1,26 @@
+_repo: Woodrow-Wilson-as-I-Know-Him_8124
+creator:
+  author:
+    agent_name: Tumulty, Joseph P. (Joseph Patrick)
+    aliases:
+    - Tumulty, Joe
+    - Tumulty, Joseph Patrick
+    birthdate: 1879
+    deathdate: 1954
+    gutenberg_agent_id: '2653'
+    url: http://www.gutenberg.org/2009/agents/2653
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wilson, Woodrow, 1856-1924'
+- !lcc 'E740'
+- !lcsh 'Presidents -- United States -- Biography'
+title: Woodrow Wilson as I Know Him
+url: http://www.gutenberg.org/ebooks/8124
