@@ -1,4 +1,8 @@
 _repo: Woodrow-Wilson-as-I-Know-Him_8124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tumulty, Joseph P. (Joseph Patrick)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2653'
     url: http://www.gutenberg.org/2009/agents/2653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8124#Woodrow-Wilson-as-I-Know-Him
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
